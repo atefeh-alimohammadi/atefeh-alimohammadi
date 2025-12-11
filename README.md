@@ -40,15 +40,3 @@
 
 ---
 
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/atefeh-alimohammadi/ML_Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atefeh-alimohammadi&repo=ML_Projects&theme=radical" />
-  </a>
-  
-  <a href="https://github.com/atefeh-alimohammadi/NLP_Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atefeh-alimohammadi&repo=NLP_Projects&theme=radical" />
-  </a>
-</p>
----
