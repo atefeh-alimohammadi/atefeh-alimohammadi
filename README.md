@@ -1,4 +1,4 @@
-# Hi, I'm Atefeh 👋
+# Hi, I'm Atefeh
 
 **Computer Engineering Graduate, University of Isfahan | AI & Machine Learning**
 
