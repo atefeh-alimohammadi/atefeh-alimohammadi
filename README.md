@@ -78,7 +78,7 @@ This project was developed collaboratively by two team members as part of our BS
 
 ## Technical Skills
 
-**Languages**
+### Programming Languages
 
 **Advanced:** Python · Java
 
@@ -90,34 +90,102 @@ This project was developed collaboratively by two team members as part of our BS
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 
-
-**Machine Learning & Deep Learning**
+### Machine Learning & Deep Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![fastai](https://img.shields.io/badge/fastai-00A98F?style=flat-square)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square\&logo=scipy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
 
-Transformers and attention · transfer learning · model evaluation (baselines, ablations, significance testing)
+Classification · Regression · Transfer Learning · Feature Engineering · Hyperparameter Tuning · Model Training and Evaluation · Transformers · Attention Mechanisms
 
-**NLP & LLM Engineering**
+### NLP & LLM Engineering
 
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square\&logo=ollama\&logoColor=white)
 
-Local LLM inference · embeddings and semantic search · retrieval-augmented generation · structured JSON extraction · prompt design
+Text Preprocessing · Persian NLP · Sentiment Analysis · Text Classification · Speech Recognition · Word Embeddings · N-gram Language Models · Semantic Search · Retrieval-Augmented Generation (RAG) · Structured JSON Extraction · Prompt Design
 
-**Computer Vision**
+### Computer Vision
 
-Vision Transformers · facial landmarks · video-based modeling
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![ResNet](https://img.shields.io/badge/ResNet-555555?style=flat-square)
+![Vision Transformer](https://img.shields.io/badge/Vision_Transformer-555555?style=flat-square)
 
-**Backend & Databases**
+Facial Landmark Features · Video-based Modeling · Image Classification · Visual Feature Fusion · CNN Architectures
+
+### Backend & Databases
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square\&logo=pydantic\&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
 
+SQL · Relational Database Design · REST APIs
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+
+### Data Science & Scientific Computing
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square\&logo=mathworks\&logoColor=white)
+
+Data Analysis · Data Preprocessing · Data Visualization · Statistical Evaluation · Computational Modeling · Information Theory
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
+
+### Additional Skills
+
+**Experimental Design & Model Evaluation**
+
+* Baseline comparisons and ablation studies
+* Error analysis and model diagnostics
+* Classification and regression metrics
+* Bootstrap analysis and McNemar's test
+* Synthetic dataset generation and hard-negative construction
+* Temporal sequence modeling and counterfactual evaluation
+
+**Natural Language Processing**
+
+* Persian text processing and part-of-speech analysis
+* N-gram-based text autocomplete
+* Spell checking and word cloud generation
+* Text-based personality-trait estimation using CNN architectures
+* Speech recognition with pretrained models
+
+**Computational Neuroscience**
+
+* Neural encoding and decoding
+* Information theory and mutual information
+* Single-neuron modeling, including Leaky Integrate-and-Fire and Hodgkin–Huxley models
+* Synaptic plasticity, Hebbian learning and STDP
+* Recurrent network dynamics and attractor networks
+
+**Data & Software Development**
+
+* Dataset construction, splitting and validation
+* Relational database design and SQL query development
+* Object-oriented programming and modular software development
+
+**UI/UX Research & Design**
+Figma
 
 ## Contact
 
