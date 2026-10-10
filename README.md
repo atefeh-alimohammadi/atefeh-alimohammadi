@@ -62,14 +62,17 @@ Estimates apparent Big Five traits from short video clips by adapting the S2D st
 * Evaluated overall and per trait with MA, CCC and RMSE on a 20% held-out split: **MA 0.886, CCC 0.381**.
 * Trained at 112×112 input and shallow depth because of compute limits.
 
-**My Contributions**
+### My Contributions
 
-This project was developed collaboratively by two team members as part of our BSc thesis. Most components, including model implementation, data handling, and experiments, were co-developed. My contributions included:
+This project was developed collaboratively by two team members as part of our BSc thesis. Most aspects of the project were carried out jointly, with both team members contributing across model adaptation, implementation, experimentation, evaluation, and documentation.
 
-* Co-developed the model architecture and fine-tuning pipeline.
-* Implemented and adapted parts of the training, validation, and testing engine.
-* Helped integrate facial-frame and landmark inputs.
-* Collaborated on interpreting results and writing the thesis report.
+My contributions included:
+
+- Co-adapting an existing video-based emotion recognition architecture for personality recognition using our target dataset.
+- Collaboratively developing and refining the model implementation, data pipeline, and training, validation, and testing workflows.
+- Jointly conducting experiments, evaluating model performance, comparing different configurations, and analyzing results.
+- Contributing to methodological decisions, debugging, and integrating facial-frame and landmark-based inputs.
+- Collaboratively documenting the methodology, interpreting findings, and writing and revising the thesis report.
 
 ![Vision Transformer](https://img.shields.io/badge/Vision_Transformer-555555?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-555555?style=flat-square)
